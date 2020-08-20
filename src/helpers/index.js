@@ -1,0 +1,3 @@
+export {
+  getScreenWidthAndHeight
+} from "./Screen";
